@@ -1,7 +1,8 @@
-# POS Application
+# POS Application (95%)
 
 แอปพลิเคชัน Point of Sale (POS) ที่พัฒนาด้วย Flutter สำหรับการจัดการขายสินค้า
 
+**ตัวอย่าง**
 ![Image Alt](https://github.com/th0mas000/pos_app/blob/8207a616fbc59bfffff0152e9eb123a47b974106/pos_1.png) ![Image Alt](https://github.com/th0mas000/pos_app/blob/59bf0bdeac18e18e4057e86aed520e6624d668f9/pos_2.png)
 
 ## คุณสมบัติหลัก
